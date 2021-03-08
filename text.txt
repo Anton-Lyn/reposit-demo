@@ -1,2 +1,3 @@
 privet
 new text
+git gui text
